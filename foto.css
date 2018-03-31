@@ -1,0 +1,13 @@
+#mytable tr:hover {background-color: #ddd;}
+#mytable th{
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: blue;
+	color : white;
+
+}
+img{
+	width: 200px;
+	height: 200px;
+}
